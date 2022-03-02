@@ -1,0 +1,6 @@
+Overcast Hot High Weak Yes
+Rain Mild High Weak Yes
+Sunny Hot High Strong No
+Rain Cool Normal Weak Yes
+Overcast Cool Normal Strong Yes
+Sunny Hot High Week No
