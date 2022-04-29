@@ -1,0 +1,10 @@
+young	normal	0.8	1	yes
+medium	perfect	0.86	1	yes
+old	perfect	0.75	1	yes
+old	normal	0.4	1	yes
+old	perfect	0.4	1	yes
+old	good	0.6	1	yes
+old	perfect	0.5	1	no
+old	normal	0.2	1	no
+young	normal	0.44	1	no
+young	normal	0.3	1	no
